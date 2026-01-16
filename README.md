@@ -3,7 +3,7 @@
 I'm a Computer Science student at **UC San Diego (Class of 2026)** who loves building impactful software across **full-stack**, **backend**, and **AI-focused development**.
 
 - 🧠 Exploring: Systems + reliability, scalable backend design, and AI-powered developer tools
-- 💻 Past work: **SWE Intern on GenAI Team @ Intuit**, **AI Software Engineer Intern @ ClearSpot.ai**, SWE Intern @ Daqstra, open-source contributions at **MindsDB**
+- 💻 Past work: **SWE Intern on GenAI Team @ Intuit**, **AI Software Engineer Intern @ ClearSpot.ai**, open-source contributions at **MindsDB**
 
 <!--
 **RiyanaD/RiyanaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
